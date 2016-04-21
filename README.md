@@ -12,7 +12,7 @@ Uses the following:
 
 # To execute as Standalone:
 
-- Clone the repo - "git clone https://github.com/ssvaidyanathan/api-ci-tools.git"
+- Clone the repo - "git clone https://github.com/davidmehi/api-ci-tools.git"
 - Go to tests folder
 - run "npm install"
 - Update the API proxy URL in "tests/integration.test/step-definitions/cricket-app-tests.js" and "tests/integration.prod/step-definitions/cricket-app-tests.js" on line number 7
@@ -28,4 +28,4 @@ The profileID can be found in the pom.xml "&lt;profiles&gt; section". In this ca
 
 # To execute this via Jenkins (using the GitHub Pull request plugin):
 
-Please refer to the [README guide](https://github.com/ssvaidyanathan/api-ci-tools/blob/cricket-app/jenkins-setup/README.md) under jenkins-setup which has the information on the job and the plugins required to setup Jenkins
+Please refer to the [README guide](https://github.com/davidmehi/api-ci-tools/blob/cricket-app/jenkins-setup/README.md) under jenkins-setup which has the information on the job and the plugins required to setup Jenkins
