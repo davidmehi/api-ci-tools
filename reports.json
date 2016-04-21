@@ -20,7 +20,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1972706
+              "duration": 2117910
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -52,7 +52,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 1503895
+              "duration": 1560676
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -64,7 +64,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 645855710
+              "duration": 847962621
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -76,7 +76,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 381635
+              "duration": 363142
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
@@ -88,7 +88,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 2383748
+              "duration": 2448851
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:210"
@@ -109,7 +109,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 180834
+              "duration": 177683
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -141,7 +141,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 331611
+              "duration": 454323
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -153,7 +153,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 165751929
+              "duration": 197052575
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -165,7 +165,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 219871
+              "duration": 265485
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
@@ -177,7 +177,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 463431
+              "duration": 550685
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:210"
@@ -198,7 +198,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 117232
+              "duration": 117040
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -224,7 +224,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 167991
+              "duration": 182915
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -236,7 +236,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 108143236
+              "duration": 102094517
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -248,7 +248,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 158014
+              "duration": 141849
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
@@ -269,7 +269,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 139181
+              "duration": 112928
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -301,7 +301,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 586447
+              "duration": 173283
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -313,7 +313,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 109407825
+              "duration": 346516384
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -325,7 +325,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 143939
+              "duration": 195395
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
