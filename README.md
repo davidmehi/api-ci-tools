@@ -3,7 +3,7 @@
 This project can be used as a template to set up Continuous integration for API proxies that is being built in [Apigee Edge](https://edge.apigee.com)
 
 Uses the following:
-- [Jenkins](jenkins-ci.org)
+- [Jenkins](blob/master/jenkins-setup/README.md)
 - Maven
     - Static Code Analysis - JSLint
     - API Proxy validation and deployment
