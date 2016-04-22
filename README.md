@@ -28,4 +28,4 @@ The profileID can be found in the pom.xml "&lt;profiles&gt; section". In this ca
 
 # To execute this via Jenkins (using the GitHub Pull request plugin):
 
-Please refer to the [README guide](https://github.com/davidmehi/api-ci-tools/blob/cricket-app/jenkins-setup/README.md) under jenkins-setup which has the information on the job and the plugins required to setup Jenkins
+Please refer to the [README guide](jenkins-setup/README.md) under jenkins-setup which has the information on the job and the plugins required to setup Jenkins
