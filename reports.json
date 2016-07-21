@@ -20,7 +20,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 2169152
+              "duration": 2333255
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -52,7 +52,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 1403784
+              "duration": 1475087
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -64,7 +64,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 482808931
+              "duration": 185329156
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -76,7 +76,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 346117
+              "duration": 313641
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
@@ -88,7 +88,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 2426199
+              "duration": 2189753
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:210"
@@ -97,8 +97,8 @@
         ]
       },
       {
-        "name": "The Cricket API should show that India's T20 ranking was 1",
-        "id": "As-a-Cricket-API-consumer,-I-want-to-get-India-rankings-in-all-formats-so-that-I-can-build-a-page;the-cricket-api-should-show-that-india's-t20-ranking-was-1",
+        "name": "The Cricket API should show that India's T20 ranking was 2",
+        "id": "As-a-Cricket-API-consumer,-I-want-to-get-India-rankings-in-all-formats-so-that-I-can-build-a-page;the-cricket-api-should-show-that-india's-t20-ranking-was-2",
         "line": 14,
         "keyword": "Scenario",
         "description": "",
@@ -109,7 +109,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 169237
+              "duration": 163582
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -141,7 +141,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 377018
+              "duration": 327333
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -153,7 +153,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 426665777
+              "duration": 101010404
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -165,20 +165,19 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 225885
+              "duration": 272758
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
             }
           },
           {
-            "name": "response body path $.query.results.Team.Ranking should be 1",
+            "name": "response body path $.query.results.Team.Ranking should be 2",
             "line": 21,
             "keyword": "Then ",
             "result": {
-              "status": "failed",
-              "duration": 2117862,
-              "error_message": "stepContext: \n  scenario: The Cricket API should show that India's T20 ranking was 1\n  step:     response body path $.query.results.Team.Ranking should be 1\ntestOutput: \n  success:  false\n  expected: 1\n  actual:   2\n  response: \n    statusCode: 200\n    headers: \n      date:                        Thu, 21 Jul 2016 12:43:02 GMT\n      content-type:                application/json; charset=UTF-8\n      transfer-encoding:           chunked\n      connection:                  close\n      x-yql-host:                  prod_bf1_1;paas.yql;queryyahooapiscomproductionbf1;7b71cec6-4eb2-11e6-8936-d4ae52974741\n      x-content-type-options:      nosniff\n      access-control-allow-origin: *\n      cache-control:               public, max-age=35999, stale-while-revalidate=35999\n      age:                         0\n      server:                      ATS\n      via:                         https/1.1 a14.ue.bf1.yahoo.net (ApacheTrafficServer [cMsSfW])\n      y-trace:                     BAEAQAAAAACrCm.aRAxKqAAAAAAAAAAAEOcES5Epx3UAAAAAAAAAAAAFOCSoosBhAAU4JKijEt9wzFEbAAAAAA--\n    body:       {\"query\":{\"count\":1,\"created\":\"2016-07-21T12:43:02Z\",\"lang\":\"en-US\",\"diagnostics\":{\"cache\":{\"execution-start-time\":\"0\",\"execution-stop-time\":\"1\",\"execution-time\":\"1\",\"method\":\"GET\",\"type\":\"MEMCACHED\",\"content\":\"TABLE.queryyahooapiscomproductionbf1.cricket.teams.cb28f8540307fdb68289fa5fedc2b832\"},\"url\":[{\"execution-start-time\":\"2\",\"execution-stop-time\":\"6\",\"execution-time\":\"4\",\"content\":\"http://sherpa-bcp5903.dht.yahoo.com:4080/YDHTWebService/V1/get/yql.global/store%3A%2F%2FgPeXezE09iMcke9Y40ueqU\"},{\"execution-start-time\":\"8\",\"execution-stop-time\":\"12\",\"execution-time\":\"4\",\"content\":\"http://cricketwebservice/ws/cwsapi/teams.php?output=summary&offset=0&count=10\"}],\"publiclyCallable\":\"true\",\"user-time\":\"15\",\"service-time\":\"9\",\"build-version\":\"0.2.31\"},\"results\":{\"Team\":{\"Ranking\":\"2\"}}}}"
+              "status": "passed",
+              "duration": 591217
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:210"
@@ -199,7 +198,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 518597
+              "duration": 138367
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -225,7 +224,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 182639
+              "duration": 201840
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -237,7 +236,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 61717599
+              "duration": 62973359
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -249,7 +248,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 262670
+              "duration": 161659
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
@@ -270,7 +269,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 121347
+              "duration": 143051
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/integration.test/step_definitions/cricket-app-tests.js:14"
@@ -302,7 +301,7 @@
             ],
             "result": {
               "status": "passed",
-              "duration": 184100
+              "duration": 183538
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:46"
@@ -314,7 +313,7 @@
             "keyword": "When ",
             "result": {
               "status": "passed",
-              "duration": 259808718
+              "duration": 62535731
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:56"
@@ -326,7 +325,7 @@
             "keyword": "Then ",
             "result": {
               "status": "passed",
-              "duration": 167930
+              "duration": 140272
             },
             "match": {
               "location": "/Users/ApigeeCorporation/Dropbox/Projects/Apigee/CITools/github/api-ci-tools/tests/node_modules/apickli/apickli-gherkin.js:147"
