@@ -49,5 +49,4 @@ Feature: As a Cricket API consumer, I want to get India rankings in all formats 
 		Then response code should be 404
 
 
-=======
 
