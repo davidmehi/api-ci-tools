@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"devDependencies": {
 		"apickli": "^1.6.3",
-		"cucumber": "^0.10.2"
+		"cucumber": "^0.10.2",
+    	"prettyjson": "^1.1.3"
 	}
 }
